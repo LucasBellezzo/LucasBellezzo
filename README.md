@@ -1,8 +1,7 @@
 # Lucas Bellezzo
 
-Computer Science student at FIAP, based in São Paulo, Brazil. I spend most of my time writing code, breaking things, and figuring out why. I like building projects that go beyond the classroom — stuff that actually runs on hardware, talks to APIs, or solves a real problem.
+Estudante de Ciência da Computação na FIAP, desenvolvendo minhas habilidades em Tecnologia da Informação, com foco principalmente em Dados.
 
-When I'm not coding, I'm probably somewhere on a trail.
 
 
 # 🧠 Knowledge & Tools
@@ -11,7 +10,9 @@ When I'm not coding, I'm probably somewhere on a trail.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux / Kali" width="40" height="40"/> 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" width="40" height="40"/>
 
 
 # 🔐 Cybersecurity
